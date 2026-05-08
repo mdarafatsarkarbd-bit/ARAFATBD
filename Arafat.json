@@ -22,9 +22,9 @@
     },
     {
         "device_id": "bb2bbb4d9c80de23",
-        "username": "admin",
-        "password": "admin",
-        "expirydate": "10-05-2026",
+        "username": "admin123",
+        "password": "admin123",
+        "expirydate": "11-05-2026",
         "Allowoffline": false
     }
 ]
