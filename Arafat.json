@@ -24,14 +24,14 @@
         "device_id": "812b61248418ad36",
         "username": "admin123",
         "password": "admin123",
-        "expirydate": "15-12-2026",
+        "expirydate": "15-06-2026",
         "Allowoffline": false
     },
         {
         "device_id": "8db848cbe65ce6aa",
         "username": "arafat123",
         "password": "arafat123",
-        "expirydate": "15-12-2026",
+        "expirydate": "15-06-2026",
         "Allowoffline": false
     }
 ]
